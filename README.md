@@ -8,4 +8,6 @@ I am passionate about the environment and sustainability and I want to learn how
 
 Also, I really like coffee and puppies.
 
-I am learning SQL and python.
+I am learning SQL and python, and I just did my first commit.
+
+
